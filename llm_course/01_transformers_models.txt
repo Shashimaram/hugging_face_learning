@@ -1,0 +1,31 @@
+NLP is a field of machine learming focused on understanding Human languange not only single words but also group of words together.
+
+
+Tasks:
+* Classifying whole sentences
+* Classifying each word in sentences
+* Generated text content 
+* Extracting text content from the text
+ * generating new text from the given text
+
+
+
+LLM: Trained on massive amounts of Text data. that can be undestrand and generating patters in language and perform tasks with out specfive training.
+
+
+LLMs are categorized by SCALE, General capabilities, in-context learning, and emergent abilites
+
+
+
+LLM limitations: 
+* Hallucinations
+* Lack of true understanding
+* Bias
+* context windiws.
+* computationa resources
+
+
+
+##Transformers https://huggingface.co/learn/llm-course/chapter1/3
+
+The most basic object in Transformers Library is Pipeline() Functon
