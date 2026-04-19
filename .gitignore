@@ -1,1 +1,6 @@
 .venv
+test-trainer
+wandb
+results
+*log
+*.ipynb_checkpoints
